@@ -1,0 +1,12 @@
+calc_type = 'nonlinear'
+z_bound   = 'mi_couple'
+nu_H      =    1.000000E+00
+hvpwr     =     4
+betai     =    5.443702E-04
+lz        =    3.141593E+00
+zl        =    1.000000E+03
+rho2L     =    1.000000E-02
+global_nz =   140
+nzg       =   279
+zskip     =    -1
+npos      = 4
